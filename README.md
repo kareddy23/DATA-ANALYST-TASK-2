@@ -1,4 +1,4 @@
-# DATA-ANALYST-TASK-2
+#TASK-2 - Data Visualization and Storytelling
 
 **🎯 Objective**
 The dashboard provides a comprehensive analysis of Adidas sales performance across various dimensions including time, region, product type, retailer, and sales method. It is designed to assist stakeholders in identifying:
